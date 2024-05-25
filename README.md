@@ -24,8 +24,8 @@ LifeSim++ ist ein interaktives Lebenssimulationsspiel, das in C++ entwickelt wur
 
 2. **Repository klonen**:
     ```sh
-    git clone https://github.com/deinusername/LifeSimPlusPlus.git
-    cd LifeSimPlusPlus
+    git clone https://github.com/deinusername/LifeSim.git
+    cd LifeSim
     ```
 
 3. **Projekt bauen**:
